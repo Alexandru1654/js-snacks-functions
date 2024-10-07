@@ -5,7 +5,7 @@ const name = 'Mario';
 
 // Dichiara la funzione qui.
 function saluta(nome) {
-    return 'Ciao $(nome)';
+    return 'Ciao ${nome}';
 }
 
 
